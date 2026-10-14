@@ -1,0 +1,49 @@
+name: Gameplay or browser problem
+description: Report a reproducible problem on survivorpoke.com.
+title: "[Game] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please read the troubleshooting guide first: https://github.com/Poke-Survivor/pokesurvivor/blob/main/docs/troubleshooting.md
+        This is a public report. Do not include passwords, account identifiers, authorization codes or full saves.
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: "Chrome 140, Windows 11 desktop; or Safari, iPhone model"
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page and date
+      description: "Use a public page address; remove private parameters. Include when the problem occurred."
+      placeholder: "https://survivorpoke.com/ — YYYY-MM-DD"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: "List the actions. For co-op, say whether players were on the same or different networks and which connection step failed."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: "Include the visible message. Screenshots are welcome after removing personal information."
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: Troubleshooting already tried
+      description: "Do not erase browser/site data just to test a problem; it may remove an anonymous identity."

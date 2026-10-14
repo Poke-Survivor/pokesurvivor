@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Play PokéSurvivor
+    url: https://survivorpoke.com/
+    about: Open the free browser game.
+  - name: Player troubleshooting
+    url: https://github.com/Poke-Survivor/pokesurvivor/blob/main/docs/troubleshooting.md
+    about: Start with practical loading, controls, save and co-op help.

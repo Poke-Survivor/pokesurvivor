@@ -1,0 +1,23 @@
+name: Player-guide correction
+description: Suggest a specific correction or clearer player instruction.
+title: "[Docs] "
+body:
+  - type: input
+    id: document
+    attributes:
+      label: Document or table row
+      placeholder: "docs/move-evolutions.md — Ember row"
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction
+      description: "Explain the answer or action that would help the player."
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Context or source
+      description: "A public guide, date, screenshot or reproducible observation is useful. Never include private credentials or full saves."
