@@ -2,7 +2,7 @@
 
 **Choose a Pokémon partner, survive enemy hordes and evolve your moves in a free browser survival game.** PokéSurvivor combines automatic attacks, movement and run-by-run upgrades with a persistent Pokémon collection.
 
-**[▶ Play PokéSurvivor](https://survivorpoke.com/?utm_source=github&utm_medium=referral&utm_campaign=pokesurvivor&utm_content=readme_play)** · [How to play](docs/getting-started.md) · [Player guides](https://survivorpoke.com/guides/)
+**[▶ Play PokéSurvivor](https://survivorpoke.com/?utm_source=github&utm_medium=referral&utm_campaign=pokesurvivor&utm_content=readme_play)** · [How to play](docs/getting-started.md) · [Player guides](https://survivorpoke.com/guides/) · [Discord](https://discord.gg/dZZ6sbqyGw)
 
 [![PokéSurvivor battle with a Pokémon partner, enemies and the active-move interface](media/gameplay.png)](https://survivorpoke.com/?utm_source=github&utm_medium=referral&utm_campaign=pokesurvivor&utm_content=readme_screenshot)
 
@@ -17,6 +17,16 @@ This repository provides player documentation, screenshots and support for the g
 5. Earn tickets, expand your collection and buy permanent upgrades between runs.
 
 You can start without downloading an installer or manually registering an account. The game creates an anonymous player identity when needed. Permanent progress can be saved; a battle itself cannot be resumed after refreshing the page.
+
+## Community Discord
+
+Join the English-first player Discord for **weekly Bond challenges**, LFG co-op, build sharing, and Clip of the Week:
+
+**[Join PokéSurvivor Discord](https://discord.gg/dZZ6sbqyGw)**
+
+New members: read `#welcome` → pick tags in `#roles` → introduce yourself → post one screenshot or build to unlock play channels.
+
+Play anytime at [https://survivorpoke.com/](https://survivorpoke.com/).
 
 ## What you can do
 

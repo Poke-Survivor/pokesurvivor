@@ -54,3 +54,14 @@ Your account retains collection, currency, tickets, upgrades, achievements and c
 Completed runs of at least **60 seconds** can enter the leaderboard. Survival time determines rank; Solo and Group boards are separate. Check the relevant period and **All-time** if you are outside a period's top 50. Finish normally and allow the record upload to complete before refreshing. [Leaderboard rules](https://survivorpoke.com/guides/leaderboard/) explain filters and missing records.
 
 [Play now](https://survivorpoke.com/) · [All on-site guides](https://survivorpoke.com/guides/) · [Troubleshooting](troubleshooting.md)
+
+## Join the community
+
+Want LFG partners, weekly Bond challenges, or build advice?
+
+1. Join the [PokéSurvivor Discord](https://discord.gg/dZZ6sbqyGw).
+2. Read `#welcome` and `#rules`.
+3. Pick language/playstyle tags in `#roles`.
+4. Post an intro in `#introductions`, then a screenshot in `#clips` or a build in `#builds-and-bonds` to unlock LFG.
+
+Play: [https://survivorpoke.com/](https://survivorpoke.com/).

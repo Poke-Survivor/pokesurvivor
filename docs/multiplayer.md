@@ -56,3 +56,12 @@ Friends and room invitations use the public nickname. A direct peer connection c
 For an eligible completed group run of at least **60 seconds**, the host submits the team record. Group and Solo boards are separate, and changing team members creates a different team record. Keep the connection available after finishing; a cloud-synced account save is not confirmation that the ranking upload is complete.
 
 [Full on-site multiplayer guide](https://survivorpoke.com/guides/multiplayer/) · [Leaderboard rules](https://survivorpoke.com/guides/leaderboard/) · [Account protection](save-and-sync.md) · [Troubleshooting](troubleshooting.md)
+
+## Finding co-op partners
+
+Need teammates beyond in-game friends? After unlocking Survivor on Discord, post in `#looking-for-group`:
+
+**[Join PokéSurvivor Discord](https://discord.gg/dZZ6sbqyGw)**
+
+In-game rooms and invites still work as described above; Discord is for discovery and scheduling.
+
